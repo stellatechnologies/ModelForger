@@ -7,7 +7,7 @@ To run the ModelForger application, you will need Java 21 JDK installed on your 
 4. Run the following command to execute the application:
 
 ```
-java -noverify -jar ModelForger-1.0.jar
+java -noverify -jar ModelForger-X.Y.jar
 ```
 
-Make sure to replace `ModelForger-1.0.jar` with the actual name of the JAR file if it is different.
+Make sure to replace `ModelForger-X.Y.jar` with the actual name of the JAR file if it is different.
